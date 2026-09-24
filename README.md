@@ -106,25 +106,17 @@ Another Python project where I experiment, learn and build.
 # 📊 GitHub Statistics
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=rs7261895-cmyk&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rs7261895-cmyk&theme=tokyonight&hide_border=true"/>
-
 </p>
-
----
 
 # 💻 Most Used Languages
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs7261895-cmyk&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
