@@ -6,7 +6,7 @@
 </p>
 
 
-### 🐍 Python Developer | 💻 IT Support Enthusiast | 🎓 MCA Graduate
+###  Python Developer |  IT Support Enthusiast |  MCA Graduate
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=rs7261895-cmyk&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" />
@@ -22,24 +22,24 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 MCA Graduate
-- 🐍 Passionate about **Python development**
-- 🗄️ Interested in **MySQL & database development**
-- 🌐 Learning and building with **HTML & web technologies**
-- 🐧 Comfortable working with **Linux**
-- 🎨 Experienced with **Adobe Photoshop**
-- 🚀 Building projects to improve my development skills
-- 📍 Based in **Dindigul, Tamil Nadu, India**
+-  MCA Graduate
+-  Passionate about **Python development**
+-  Interested in **MySQL & database development**
+-  Learning and building with **HTML & web technologies**
+-  Comfortable working with **Linux**
+-  Experienced with **Adobe Photoshop**
+-  Building projects to improve my development skills
+-  Based in **Dindigul, Tamil Nadu, India**
 
-> 💡 **Learning every day. Building one project at a time.**
+>  **Learning every day. Building one project at a time.**
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-## 💻 Programming & Development
+##  Programming & Development
 
 <p align="center">
 
@@ -53,7 +53,7 @@
 
 </p>
 
-## 🗄️ Database
+##  Database
 
 <p align="center">
 
@@ -65,7 +65,7 @@
 
 </p>
 
-## 🌐 Web Technologies
+##  Web Technologies
 
 <p align="center">
 
@@ -73,7 +73,7 @@
 
 </p>
 
-## 🐧 Operating Systems
+##  Operating Systems
 
 <p align="center">
 
@@ -83,7 +83,7 @@
 
 </p>
 
-## 🔧 Tools
+##  Tools
 
 <p align="center">
 
@@ -101,9 +101,9 @@
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🌐 Portfolio Website
+##  Portfolio Website
 
 ### `Portfolio-myself-`
 
@@ -117,7 +117,7 @@ Personal portfolio website built using HTML.
 
 ---
 
-## 🐍 Python Project
+##  Python Project
 
 ### `proj1`
 
@@ -125,13 +125,13 @@ Python programming project and development practice.
 
 <p>
 <a href="https://github.com/rs7261895-cmyk/proj1">
-<img src="https://img.shields.io/badge/🐍%20VIEW%20PROJ1-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%20VIEW%20PROJ1-3776AB?style=for-the-badge" />
 </a>
 </p>
 
 ---
 
-## 🐍 Python Project
+##  Python Project
 
 ### `pro2`
 
@@ -139,13 +139,13 @@ Python project for experimentation, learning and development.
 
 <p>
 <a href="https://github.com/rs7261895-cmyk/pro2">
-<img src="https://img.shields.io/badge/🐍%20VIEW%20PRO2-00A86B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%20VIEW%20PRO2-00A86B?style=for-the-badge" />
 </a>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <p align="center">
 
@@ -167,7 +167,7 @@ Python project for experimentation, learning and development.
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 
@@ -177,7 +177,7 @@ Python project for experimentation, learning and development.
 
 ---
 
-# 💻 Most Used Technologies
+#  Most Used Technologies
 
 <p align="center">
 
@@ -202,10 +202,10 @@ Python project for experimentation, learning and development.
 <div align="left">
 
 ```text
-🐍  Python Development
-🗄️  MySQL & SQL
-🌐  Web Development
-🐧  Linux
-💻  IT Support
-🐙  Git & GitHub
+  Python Development
+  MySQL & SQL
+  Web Development
+  Linux
+  IT Support
+  Git & GitHub
 
