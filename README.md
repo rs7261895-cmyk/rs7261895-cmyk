@@ -1,8 +1,8 @@
 <!-- PROFILE HEADER -->
+<h1 align="center">
+  Hi I'm <span style="color:#FFD700;">Subramaniyasiva</span>
+</h1>
 
-<div align="center">
-
-# 👋 Hi, I'm Subramaniyasiva
 
 ### 🐍 Python Developer | 💻 IT Support Enthusiast | 🎓 MCA Graduate
 
