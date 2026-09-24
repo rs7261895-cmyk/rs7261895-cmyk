@@ -1,7 +1,9 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">
-  Hi I'm <span style="color:#FFD700;">Subramaniyasiva</span>
-</h1>
+<h1 align="center"> SUBRAMANIYASIVA </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python%20Developer-FFD700?style=for-the-badge&labelColor=181818&logo=python&logoColor=FFD700" />
+</p>
 
 
 ### 🐍 Python Developer | 💻 IT Support Enthusiast | 🎓 MCA Graduate
@@ -195,9 +197,9 @@ Python project for experimentation, learning and development.
 
 ---
 
-# 🎯 Current Focus
+#  Current Focus
 
-<div align="center">
+<div align="left">
 
 ```text
 🐍  Python Development
@@ -206,4 +208,4 @@ Python project for experimentation, learning and development.
 🐧  Linux
 💻  IT Support
 🐙  Git & GitHub
-🚀  Real-World Projects
+
